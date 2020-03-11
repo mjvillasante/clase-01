@@ -1,7 +1,7 @@
 var a = 50;
 var c
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(windowWidth, windowheight);
   frameRate(10);
 }
 
